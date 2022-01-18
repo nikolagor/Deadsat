@@ -2995,17 +2995,15 @@ href="http://www.forum.satellitenwelt.de/viewtopic.php?f=2&amp;t=800&amp;sid=bee
             double #808080; padding-top: 0cm; padding-bottom: 0.05cm;
             padding-left: 0.05cm; padding-right: 0.05cm" width="1098">
             <p><a
-                href="http://planet.iitp.ru/english/spacecraft/meteor-m-n1_eng.htm"
-                target="_blank">Meteor M-N1</a>,21 March 2016 LRPT off
+                href="https://directory.eoportal.org/web/eoportal/satellite-missions/m/meteor-m-1"
+                target="_blank">Meteor M-N1</a>, launched on 17 Sept 2009, LRPT off
               Rate ½, k = 7 Convolution coded, I = G1, Q = G2, Power I:Q
               = 1:1, Symbol Rate 72 or 80 kilosymbols per second CCSDS
               Format. SCID 00, VCID 05 with 3 out of APIDs 64 to 69,
               (MSU-MR channels 1 to 6) or VCID 63, Fill Can use either
               72 kbps mode or 80 kbps Metop LRPT mode with Unique Word
               (UW) Insertion.</p>
-            <a
-href="http://happysat.nl/Meteor_M-N1/html/Meteor%20M-N1%20Mission%20Status.html"
-              target="_blank">20 March 2016</a>, Absence of a normal
+            20 March 2016, Absence of a normal
             orientation, MSU-MR and BIS-MV were disabled more or less
             adequate reception conditions will not be provided.<br>
             In addition, the inclusion of additional energy consumers
@@ -3021,8 +3019,7 @@ href="http://happysat.nl/Meteor_M-N1/html/Meteor%20M-N1%20Mission%20Status.html"
             the past emerged spontaneously and there is no possibility
             to simulate the situation. <br>
             <br>
-            <a href="http://happysat.nl/Meteor_M-N1/html/index.html"
-              target="_blank">Meteor-M N1</a> On board GGAK-M
+            Meteor-M N1 On board GGAK-M
             (Geophysical Monitoring System Komplex) is still collecting
             information on various solar,<br>
             cosmic and galactic high-energy particles.<br>
@@ -3044,7 +3041,7 @@ href="http://happysat.nl/Meteor_M-N1/html/Meteor%20M-N1%20Mission%20Status.html"
               LRPT Images.</a><br>
             <br>
             06-01-2020 <a
-              href="http://happysat.nl/Meteor_M-N1/html/img/Meteor%20MN1.jpg"
+              href="/images/Meteor_M_N1.jpg"
               target="_blank">Unmodulated HRPT Carrier visible</a><br>
             <p></p>
           </td>
