@@ -3041,7 +3041,7 @@ href="http://www.forum.satellitenwelt.de/viewtopic.php?f=2&amp;t=800&amp;sid=bee
               LRPT Images.</a><br>
             <br>
             06-01-2020 <a
-              href="/images/Meteor_M_N1.jpg"
+              href="/images/Meteor_M_N1.jpg?raw=true"
               target="_blank">Unmodulated HRPT Carrier visible</a><br>
             <p></p>
           </td>
